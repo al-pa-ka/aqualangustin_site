@@ -1,0 +1,4 @@
+venv/
+aqualangustin/static/*
+aqualangustin/db.sqlite3
+__pycache__
